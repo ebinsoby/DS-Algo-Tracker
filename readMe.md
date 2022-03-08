@@ -1,4 +1,4 @@
-#DS Algo Tracker
+# DS Algo Tracker
 
 A repo to track my progress in Data Structures and Algorithms. 
 
