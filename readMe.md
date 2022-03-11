@@ -12,5 +12,5 @@ A repo to track my progress in Data Structures and Algorithms.
 | 6.    Closest Value in BST: https://www.algoexpert.io/questions/Find%20Closest%20Value%20In%20BST| simple traversal, avg time(Balanced BST) - O(logN), worst case - O(N)(One branch tree, so we are not eliminating half the BST in each step). If done recursively space- O(N), iteratively - O(1)| Easy |
 | 7.    Branch Sums: https://www.algoexpert.io/questions/Branch%20Sums| simple traversal | Easy |
 | 8.    Node Depths : https://www.algoexpert.io/questions/Node%20Depths| recursive is intuitive, take a look at iterative approach using stack | Easy |
-| 9.    Depth first search : https://www.algoexpert.io/questions/Depth-first%20Search | Understand that time complexity is O(V+E), because in the function,  | Easy |
+| 9.    Depth first search : https://www.algoexpert.io/questions/Depth-first%20Search | Understand that time complexity is O(V+E), because- sume(pushing the vertex to array)= V, sum(traversing the neibhour of each node) = E | Easy |
 
