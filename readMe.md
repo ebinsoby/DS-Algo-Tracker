@@ -21,4 +21,5 @@ A repo to track my progress in Data Structures and Algorithms.
 | 15.   Product Sum : https://www.algoexpert.io/questions/Product%20Sum |  | Easy |
 | 16.   Binary Search : https://www.algoexpert.io/questions/Binary%20Search | Iterative is better for space | Easy |
 | 17.   Find three largest nos : https://www.algoexpert.io/questions/Find%20Three%20Largest%20Numbers |  | Easy |
+| 18.   Bubble Sort : https://www.algoexpert.io/questions/Bubble%20Sort | Avg and worst case time complexity : O(N^2), best case scenario is when we are given a sorted array-Time complexity : O(N) , need to use a flag to get best case time complexity | Easy |
 
