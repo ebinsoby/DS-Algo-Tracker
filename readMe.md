@@ -18,4 +18,7 @@ A repo to track my progress in Data Structures and Algorithms.
 | 12.   Tandem Cycle : https://www.algoexpert.io/questions/Tandem%20Bicycle |  | Easy |
 | 13.   Remove Duplicates from Linked List : https://www.algoexpert.io/questions/Remove%20Duplicates%20From%20Linked%20List |  | Easy |
 | 14.   Nth Fibonacci : https://www.algoexpert.io/questions/Remove%20Duplicates%20From%20Linked%20List | in the memoization solution, if i put: If(memo(n)) instead of if(n in memo)  | Easy |
+| 15.   Product Sum : https://www.algoexpert.io/questions/Product%20Sum |  | Easy |
+| 16.   Binary Search : https://www.algoexpert.io/questions/Binary%20Search | Iterative is better for space | Easy |
+| 17.   Find three largest nos : https://www.algoexpert.io/questions/Find%20Three%20Largest%20Numbers |  | Easy |
 
