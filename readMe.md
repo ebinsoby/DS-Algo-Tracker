@@ -2,8 +2,8 @@
 
 A repo to track my progress in Data Structures and Algorithms. 
 
-| Questions | Tip| Difficulty |
-| --------------- | --------------- | --------------- |
+| Questions | Tip | Difficulty | Time Complexity | Space Complexity |
+| --------------- | --------------- | --------------- |--------------- |--------------- |
 | 1.    Two Number Sum: https://www.algoexpert.io/questions/Two%20Number%20Sum | use Hashmap for O(n) | Easy |
 | 2.    Validate Subsequence: https://www.algoexpert.io/questions/Validate%20Subsequence| can be done without a flag, cleaner code | Easy |
 | 3.    Sorted Squared Array: https://www.algoexpert.io/questions/Sorted%20Squared%20Array| Two pointers, one for max, one for min. Whenver it is mentioned that the input is in a specific order, that usually hints you that there is a more optimal sol than the brute force one. mostly a linear time complexity is available | Easy |
@@ -22,4 +22,5 @@ A repo to track my progress in Data Structures and Algorithms.
 | 16.   Binary Search : https://www.algoexpert.io/questions/Binary%20Search | Iterative is better for space | Easy |
 | 17.   Find three largest nos : https://www.algoexpert.io/questions/Find%20Three%20Largest%20Numbers |  | Easy |
 | 18.   Bubble Sort : https://www.algoexpert.io/questions/Bubble%20Sort | Avg and worst case time complexity : O(N^2), best case scenario is when we are given a sorted array-Time complexity : O(N) , need to use a flag to get best case time complexity | Easy |
+| 19.   Insertion Sort : https://www.algoexpert.io/questions/Insertion%20Sort | Avg and worst case time complexity : O(N^2), best case scenario is when we are given a sorted array-Time complexity : O(N) , need to use a flag to get best case time complexity | Easy | Avg and Worst case- O($N^2$), best case scenario when  given a sorted array-O(N) | O(1)
 
