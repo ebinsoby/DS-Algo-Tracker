@@ -22,5 +22,7 @@ A repo to track my progress in Data Structures and Algorithms.
 | 16.   Binary Search : https://www.algoexpert.io/questions/Binary%20Search | Iterative is better for space | Easy |
 | 17.   Find three largest nos : https://www.algoexpert.io/questions/Find%20Three%20Largest%20Numbers |  | Easy |
 | 18.   Bubble Sort : https://www.algoexpert.io/questions/Bubble%20Sort | Avg and worst case time complexity : O(N^2), best case scenario is when we are given a sorted array-Time complexity : O(N) , need to use a flag to get best case time complexity | Easy |
-| 19.   Insertion Sort : https://www.algoexpert.io/questions/Insertion%20Sort | Avg and worst case time complexity : O(N^2), best case scenario is when we are given a sorted array-Time complexity : O(N) , need to use a flag to get best case time complexity | Easy | Avg and Worst case- O($$N^2$$), best case scenario when  given a sorted array-O(N) | O(1)
+| 19.   Insertion Sort : https://www.algoexpert.io/questions/Insertion%20Sort | Avg and worst case time complexity : O(N^2), best case scenario is when we are given a sorted array-Time complexity : O(N) , need to use a flag to get best case time complexity | Easy | Avg and Worst case- O(N^2), best case scenario when  given a sorted array-O(N) | O(1)
+| 20.   Selection Sort : https://www.algoexpert.io/questions/Selection%20Sort |  | Easy | Best, Avg and Worst case- O(N^2) | O(1)
+| 21.   Palindrome check : https://www.algoexpert.io/questions/Palindrome%20Check | Although not optimal, the recursive method is interesting(Solution 3) | Easy | O(N) | O(1)
 
