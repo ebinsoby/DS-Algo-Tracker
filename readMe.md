@@ -25,4 +25,6 @@ A repo to track my progress in Data Structures and Algorithms.
 | 19.   Insertion Sort : https://www.algoexpert.io/questions/Insertion%20Sort | Avg and worst case time complexity : O(N^2), best case scenario is when we are given a sorted array-Time complexity : O(N) , need to use a flag to get best case time complexity | Easy | Avg and Worst case- O(N^2), best case scenario when  given a sorted array-O(N) | O(1)
 | 20.   Selection Sort : https://www.algoexpert.io/questions/Selection%20Sort |  | Easy | Best, Avg and Worst case- O(N^2) | O(1)
 | 21.   Palindrome check : https://www.algoexpert.io/questions/Palindrome%20Check | Although not optimal, the recursive method is interesting(Solution 3) | Easy | O(N) | O(1)
+| 22.   Caesar Cipher Encryptor  :https://www.algoexpert.io/questions/Caesar%20Cipher%20Encryptor | use of Modulus is interesting, check out the use case | Easy | O(N) | O(N)
+| 23.   Run Length Encoding  :https://www.algoexpert.io/questions/Run-Length%20Encoding |Two catches here 1.If i use a string inside the loop to calculate the output at each step, that would be a o(N^2) operation since string concatnation is a O(N+M) operation 2.In the interview they may not explicity say to split 13 - 9 and 4, but that's what we'll have to do, since it has to be a unique mapping | Easy | O(N) | O(N)
 
