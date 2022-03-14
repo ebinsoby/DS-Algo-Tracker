@@ -28,5 +28,9 @@ A repo to track my progress in Data Structures and Algorithms.
 | 22.   Caesar Cipher Encryptor  :https://www.algoexpert.io/questions/Caesar%20Cipher%20Encryptor | use of Modulus is interesting, check out the use case | Easy | O(N) | O(N) |
 | 23.   Run Length Encoding  :https://www.algoexpert.io/questions/Run-Length%20Encoding |Two catches here 1.If i use a string inside the loop to calculate the output at each step, that would be a o(N^2) operation since string concatnation is a O(N+M) operation 2.In the interview they may not explicity say to split 13 - 9 and 4, but that's what we'll have to do, since it has to be a unique mapping | Easy | O(N) | O(N), since here worst case scenario for space is 2N, when input is like ABCD |
 | 24.   Generate Document  :https://www.algoexpert.io/questions/Generate%20Document | The way they do Sol 3 is more neat than mine, without using two hash tables, they use only one hash table | Easy | O(N+M) | O(c), c- no of unique character in the characters string |
-| 25.   First Non Repeating Character  :https://www.algoexpert.io/questions/First%20Non-Repeating%20Character| for the optimal solution, space comple- O(1), b/c in worst case scenario, it would be O(26)(26 lowercase letters in alphabets) = O(1) | Easy | O(N | O(1) |
+| 25.   First Non Repeating Character  :https://www.algoexpert.io/questions/First%20Non-Repeating%20Character| for the optimal solution, space comple- O(1), b/c in worst case scenario, it would be O(26)(26 lowercase letters in alphabets) = O(1) | Easy | O(N) | O(1) |
+| 26.   Three Number Sum :https://www.algoexpert.io/questions/Three%20Number%20Sum | the two pointer methodology is quite neat, optimal sol. | Medium | O(N^2) | O(N), because in wors case scenario all elements could be part of triplet |
+| 27.   Smallest difference :https://www.algoexpert.io/questions/Smallest%20Difference | the optimal solution is neat | Medium | O(NlogN + MlogM) | O(1) |
+| 28.   Move Element to End :https://www.algoexpert.io/questions/Move%20Element%20To%20End | two pointers | Easy | O(N) | O(1) |
+| 28.   Monotonic Array :https://www.algoexpert.io/questions/Monotonic%20Array |  | Easy | O(N) | O(1) |
 
