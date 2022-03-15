@@ -32,5 +32,8 @@ A repo to track my progress in Data Structures and Algorithms.
 | 26.   Three Number Sum :https://www.algoexpert.io/questions/Three%20Number%20Sum | the two pointer methodology is quite neat, optimal sol. | Medium | O(N^2) | O(N), because in wors case scenario all elements could be part of triplet |
 | 27.   Smallest difference :https://www.algoexpert.io/questions/Smallest%20Difference | the optimal solution is neat | Medium | O(NlogN + MlogM) | O(1) |
 | 28.   Move Element to End :https://www.algoexpert.io/questions/Move%20Element%20To%20End | two pointers | Easy | O(N) | O(1) |
-| 28.   Monotonic Array :https://www.algoexpert.io/questions/Monotonic%20Array |  | Easy | O(N) | O(1) |
+| 29.   Monotonic Array :https://www.algoexpert.io/questions/Monotonic%20Array |  | Easy | O(N) | O(1) |
+| 30.   Spiral Traverse :https://www.algoexpert.io/questions/Spiral%20Traverse | traversing the paramenter of the rectangle, and then shrinking the rectangle. See the edge case where there is a single row/coloum in the last spiral, test case 8&9| Medium | O(N) | O(1) |
+| 31.   Longest Peak :https://www.algoexpert.io/questions/Longest%20Peak | Optimal sol is neat, checkout | Medium | O(N) | O(1) |
+| 32.   Array of Products :https://www.algoexpert.io/questions/Array%20Of%20Products|  | Easy | O(N) | O(N) |
 
