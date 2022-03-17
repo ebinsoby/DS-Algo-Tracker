@@ -38,4 +38,6 @@ A repo to track my progress in Data Structures and Algorithms.
 | 32.   Array of Products :https://www.algoexpert.io/questions/Array%20Of%20Products| The optimal sol with two arrays is nice, but we can solve it with flag like i did but it's too verbose | Easy | O(N) | O(N) |
 | 33.   First Duplicate Value :https://www.algoexpert.io/questions/First%20Duplicate%20Value | The optimal sol is clever | Medium | O(N) | O(1) |
 | 34.   Merge Overlapping Values :https://www.algoexpert.io/questions/Merge%20Overlapping%20Intervals |  | Medium | O(NlogN) | O(N)  |
+| 35.   BST Construction :https://www.algoexpert.io/questions/BST%20Construction |  | Medium | Avg O(logN) Worst O(N) | Avg O(1) Worst O(N) |
+| 36.   Validate BST : https://www.algoexpert.io/questions/Validate%20BST |  | Medium | O(N) | O(d) d-depth of the BST, largest branch of the BST |
 
