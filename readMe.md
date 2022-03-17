@@ -35,5 +35,7 @@ A repo to track my progress in Data Structures and Algorithms.
 | 29.   Monotonic Array :https://www.algoexpert.io/questions/Monotonic%20Array |  | Easy | O(N) | O(1) |
 | 30.   Spiral Traverse :https://www.algoexpert.io/questions/Spiral%20Traverse | traversing the paramenter of the rectangle, and then shrinking the rectangle. See the edge case where there is a single row/coloum in the last spiral, test case 8&9| Medium | O(N) | O(1) |
 | 31.   Longest Peak :https://www.algoexpert.io/questions/Longest%20Peak | Optimal sol is neat, checkout | Medium | O(N) | O(1) |
-| 32.   Array of Products :https://www.algoexpert.io/questions/Array%20Of%20Products|  | Easy | O(N) | O(N) |
+| 32.   Array of Products :https://www.algoexpert.io/questions/Array%20Of%20Products| The optimal sol with two arrays is nice, but we can solve it with flag like i did but it's too verbose | Easy | O(N) | O(N) |
+| 33.   First Duplicate Value :https://www.algoexpert.io/questions/First%20Duplicate%20Value | The optimal sol is clever | Medium | O(N) | O(1) |
+| 34.   Merge Overlapping Values :https://www.algoexpert.io/questions/Merge%20Overlapping%20Intervals |  | Medium | O(NlogN) | O(N)  |
 
