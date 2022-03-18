@@ -40,5 +40,6 @@ A repo to track my progress in Data Structures and Algorithms.
 | 34.   Merge Overlapping Values :https://www.algoexpert.io/questions/Merge%20Overlapping%20Intervals |  | Medium | O(NlogN) | O(N)  |
 | 35.   BST Construction :https://www.algoexpert.io/questions/BST%20Construction |  | Medium | Avg O(logN) Worst O(N) | Avg O(1) Worst O(N) |
 | 36.   Validate BST : https://www.algoexpert.io/questions/Validate%20BST |  | Medium | O(N) | O(d) d-depth of the BST, largest branch of the BST  |
-| 36.   BST Traversal : https://www.algoexpert.io/questions/BST%20Traversal |  | Medium | O(N) | O(N), because we are storing the array, if we were just printing the values, then O(d) d- depth of the BST |
+| 37.   BST Traversal : https://www.algoexpert.io/questions/BST%20Traversal |  | Medium | O(N) | O(N), because we are storing the array, if we were just printing the values, then O(d) d- depth of the BST |
+| 38.   Min Height BST : https://www.algoexpert.io/questions/Min%20Height%20BST | 1. Here the one catch is understanding that the naive method's time = O(NlogN) since the naive insertion is O(logN). 2. The cleaner way to do the optimal sol is good. Need to develop that recursive thinking mentality | Medium | O(N) | O(N) |
 
