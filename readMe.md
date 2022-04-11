@@ -43,5 +43,5 @@ A repo to track my progress in Data Structures and Algorithms.
 | 37.   BST Traversal : https://www.algoexpert.io/questions/BST%20Traversal |  | Medium | O(N) | O(N), because we are storing the array, if we were just printing the values, then O(d) d- depth of the BST |
 | 38.   Min Height BST : https://www.algoexpert.io/questions/Min%20Height%20BST | 1. Here the one catch is understanding that the naive method's time = O(NlogN) since the naive insertion is O(logN). 2. The cleaner way to do the optimal sol is good. Need to develop that recursive thinking mentality | Medium | O(N) | O(N) |
 | 39.   Kth largest in BST : https://www.algoexpert.io/questions/Find%20Kth%20Largest%20Value%20In%20BST | Remember inorder traversal gives you a sorted array | Medium | O(d+K), d-depth of the BST |  O(d), d-depth of the BST  |
-| 40.   Reconstruct BST : https://www.algoexpert.io/questions/Reconstruct%20BST | **Go through this again** | HARD | O(N) |  O(d), d-the depth of the BST but actually O(N) because we are storing the created BST. O(d) is shown to show the space occupied in the stack   |
+| 40.   Reconstruct BST : https://www.algoexpert.io/questions/Reconstruct%20BST | **Go through this again** | hard | O(N) |  O(d), d-the depth of the BST but actually O(N) because we are storing the created BST. O(d) is shown to show the space occupied in the stack   |
 
